@@ -1,0 +1,4 @@
+anime_api:
+  image: 1604/anime
+  mem_limit: 1024m
+  env_file: .env
